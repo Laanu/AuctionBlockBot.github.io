@@ -7,7 +7,7 @@ Initial interaction will begin with the Chatbot, which will ask series of questi
 As an NFT buyer you will need to provide you address, NFT address you are interested in bidding on, starting bid. This information needs to be seperated by semicolon. You will be provided with the minumum bid price, time of auction and duration of the auction. 
 
 # Non-Fungible-Token Seller
-As an NFT seller you will need to provide you address as well as the address for the NFT you are interested in auctioning. You will need to provide the minumum bid price, time of auction and duration of the auction. This information needs to be seperated by semicolon. Auctions require minimum 2 hours duration. 
+As an NFT seller you will need to provide you address as well as the address for the NFT you are interested in auctioning. You will need to provide the minumum bid price, time of auction and duration of the auction. information provided needs to be seperated by semicolon. Auctions require minimum 2 hours duration. 
 
 # Tulip Puchase?
 
