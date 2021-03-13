@@ -15,7 +15,7 @@ As an NFT seller you will need to provide you address as well as the address for
 
 # Tulip Puchase?
 
-Tulip which represents reputation token either be purchased or acquired through auction participant's track record. 
+Tulip which represents reputation token can either be purchased or acquired through auction participant's track record. 
 
 
 
