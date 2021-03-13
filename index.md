@@ -3,7 +3,7 @@ The auction block is an auction system where the auctions are based on Auction T
 
 Initial interaction will begin with the Chatbot, which will ask series of question to help identify how to route your request. once identified as a participant, you asked to identify yourself by providing your address. 
 
-# Non-Fungible-Token Buyer
+# Non-Fungible-Token Bidder
 As an NFT buyer you will need to provide you address, NFT address you are interested in bidding on, starting bid. This information needs to be seperated by semicolon. You will be provided with the minumum bid price, time of auction and duration of the auction. 
 
 # Non-Fungible-Token Seller
@@ -14,4 +14,4 @@ As an NFT seller you will need to provide you address as well as the address for
 Tulip which represents reputation token can either be purchased or acquired through auction participant's track record. 
 
 # Auction Item 
-Template contract will be provided for participant seller. Seller will need to provide starting price, start time and auction duration. Once smart contract is completed, seller will be provided with address to the NFT item(s). 
+Template contract will be provided for seller. Seller will need to provide starting price, start time and auction duration. Once smart contract is completed, seller will be provided with address to the NFT item(s). 
